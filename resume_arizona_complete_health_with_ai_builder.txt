@@ -1,0 +1,40 @@
+Troy Farley
+Glendale, AZ • troy@email.com • (555) 123-4567
+Available for Remote Work • Portfolio Available Upon Request
+
+---
+
+Objective
+---------
+Detail-oriented professional with a strong background in computer systems and process documentation. Proficient in Excel, data organization, and systems analysis. Seeking the Grievance & Appeals Coordinator I role at Arizona Complete Health, where I can contribute fast-learning ability, technical adaptability, and precise data handling.
+
+Skills
+------
+• Microsoft Excel (pivot tables, formatting, filters)
+• SQL and data structuring
+• Workflow documentation and digital systems navigation
+• Remote work tools (Zoom, Slack, Trello)
+• Ability to quickly learn and adapt to new platforms
+• Strong written communication and organizational skills
+
+Experience Highlights
+---------------------
+• Associate Degree in Computer Science with emphasis on systems architecture and databases  
+• Demonstrated ability to quickly learn and operate unfamiliar platforms, CRM tools, and reporting systems  
+• Built personal portfolio using Excel dashboards, SQL queries, and simulated business insights  
+• Strong foundation in self-led learning, process refinement, and remote collaboration  
+
+Education
+---------
+Associate Degree – Computer Science  
+Phoenix, AZ
+
+Technical Projects & AI Systems
+
+AI-Driven Data Analyst Studio (Self-Directed) – 2025
+---------------------------------------------------
+• Designed and deployed SQL-based marketing campaign analysis environments using ChatGPT + SQLite.
+• Built Excel dashboards, ROI models, A/B testing simulators, and reporting workflows that simulate full analyst responsibilities.
+• Automated data query, cleaning, and reporting processes using AI-assisted scripting and modular templates.
+• Developed a 7-day analyst challenge path to mimic real-world tasks and track job readiness progression.
+• Packaged project as a downloadable portfolio showcasing AI-accelerated system design and reporting insight generation.
