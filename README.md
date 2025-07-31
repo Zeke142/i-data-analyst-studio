@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cd503794-e5f3-4147-b80f-2b8b96c3f202" />
+
 # i-data-analyst-studio
 AI-driven analyst simulation toolkit built using ChatGPT, SQL, Excel, and dashboards.
 
